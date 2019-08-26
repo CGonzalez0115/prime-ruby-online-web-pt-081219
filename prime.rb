@@ -1,6 +1,6 @@
 def prime?(n)
   num = 2
-  while num < namespace
+  while n < num
     return false if n % num == 0
     num += 1
   end
