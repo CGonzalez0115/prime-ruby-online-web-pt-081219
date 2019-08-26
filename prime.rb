@@ -6,3 +6,6 @@ def prime?(n)
   end
   true
 end
+
+prime?(2)
+prime?(3)
