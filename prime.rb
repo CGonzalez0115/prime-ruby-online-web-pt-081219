@@ -5,7 +5,3 @@ def prime?(n)
     num += 1
   end
   true
-end
-
-prime?(2)
-prime?(3)
